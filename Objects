@@ -1,0 +1,28 @@
+<mxfile host="65bd71144e">
+    <diagram id="trhT8EH2fUeX2JEGyP75" name="Page-1">
+        <mxGraphModel dx="1649" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Attribute: (Description)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="126" y="80" width="204" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&lt;ul&gt;&lt;li&gt;Colour&lt;/li&gt;&lt;li&gt;Vin&lt;/li&gt;&lt;li&gt;Model&lt;/li&gt;&lt;li&gt;Maker&lt;/li&gt;&lt;li&gt;Year&lt;/li&gt;&lt;li&gt;Transmission&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="126" y="120" width="60" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Object(CAR)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="420" y="150" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Functions: (Behaviors/Methods)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="600" y="80" width="260" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;Start()&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stop()&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Park(0&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Drive()&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Acceleration()&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Reverse()&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="670" y="120" width="60" height="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;OJECT&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="395" y="10" width="60" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
